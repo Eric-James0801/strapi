@@ -5,5 +5,5 @@ const bootstrap = () => {};
 
 export default {
   config,
-  bootstrap,
+  //bootstrap,
 };
